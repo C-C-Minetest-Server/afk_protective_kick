@@ -1,0 +1,8 @@
+# textdomain: afk_protective_kick
+
+##[ init.lua ]##
+AFK Protective Kick=
+AFK Protective Kick: @1=
+You stayed inside a damage-dealing block: @1=
+You suffocated in this block: @1=
+You starved.=

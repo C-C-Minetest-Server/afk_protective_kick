@@ -1,0 +1,1 @@
+afk_protective_kick.inactive_time (Maximum AFK time before being checked) int 90
